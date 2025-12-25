@@ -3,3 +3,4 @@ uvicorn[standart]
 pydantic
 python-dotenv
 openai
+langgraph
