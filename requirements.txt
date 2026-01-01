@@ -6,4 +6,5 @@ openai
 langgraph
 langchain
 langchain-community
-supabases
+langchain-openai
+supabase
